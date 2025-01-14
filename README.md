@@ -62,7 +62,7 @@ We've purposely added a handful of bugs to this repo.
 In your private github repo, submit those bug reports to your repo in the github issues.
 
 ### 2. Update/Create Playwright tests
-We've created a framework of the tests and some of the skills we would like to see. Please use typescript and keep a focus on Page Object Model layout while creating these tests.
+We've created a framework of the tests and some of the skills we would like to see. Please use typescript and keep a focus on Page Object Model layout while creating these tests. You may create any files/folders that you like for organization.
 
 We also want to see an example of your API testing so we added 3 tests in there using the SWAPI API. More info is in the comments of the todo.spec.ts folder of documentation and what tests we want to see.
 
@@ -86,5 +86,3 @@ The only requirement is an installation of Node, to be able to install dependenc
 * Node (min version: 18.13.0)
 * NPM (min version: 8.19.3)
 ```
-
-## Applicant Test Plan
