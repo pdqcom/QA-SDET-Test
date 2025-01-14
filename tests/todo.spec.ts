@@ -51,7 +51,7 @@ test('test that finds bug 2 that you found', async ({ page, }) => {
 // TODO We want to see an example of your API testing skills. Please write a test that uses the SWAPI API to test the following:
 
 // API Testing
-// Use swapi documentation https://swapi.py4e.com/documentation
+// Use SWAPI documentation https://swapi.py4e.com/documentation
 
 test('Use https://swapi.py4e.com/api/people to find and confirm how many people there are', async () => {
   
