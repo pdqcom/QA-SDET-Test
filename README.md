@@ -1,5 +1,4 @@
 # PDQ QA SDET Technical Assignment
-# PDQ QA SDET Technical Assignment
 Thanks for applying! The steps of this interview process are as follows:
 1. Phone screening
 2. Technical assessment <- *this is where we are now!*
