@@ -71,7 +71,7 @@ Using the product requirements write a couple of test cases
 ### 4. Bonus (not required) Performance test in a different tool
 If you are familiar with a different performance testing tool you are welcome to repeat the work in that tool i.e. k6/lighthouse etc. 
 
-### 5. Bonus (not rquired) PowerShell scripting
+### 5. Bonus (not required) PowerShell scripting
 Create a PowerShell function in PowerShell7 that does the following 
 1. Starts the app for you
 2. Runs the playwright tests
