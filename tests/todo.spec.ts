@@ -14,7 +14,7 @@ test('innitial page load performance test', async ({ page, context }) => {
   }
 })
 
-test('addig a todo performance test', async ({page }) => {
+test('adding a todo performance test', async ({page }) => {
   try {
     await page.goto('http://127.0.0.1:7002');
   } catch (error) {
