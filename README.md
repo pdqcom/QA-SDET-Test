@@ -15,7 +15,7 @@ We have created our own version of TODO MVC. It is the same as the regular one, 
 
 This test is designed to test your Playwright capabilities using TypeScript. There are 2 main pieces to the homework. Each is described in more detail further in this doc.
 
-3 Pieces of the assignment:
+4 Pieces of the assignment:
 
 1. Find a few of the bugs we have purposely created in TODO MVC and submit bug reports for each using GitHub issues on your personal repo.
 2. Complete Playwright tests in the tests>todo.spec.ts You may create new folders for any organization you prefer. Keep a focus on Page Object Model layout while creating these test.
