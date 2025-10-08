@@ -19,12 +19,13 @@ This test is designed to test your Playwright capabilities using TypeScript. The
 
 1. Find a few of the bugs we have purposely created in TODO MVC and submit bug reports for each using GitHub issues on your personal repo.
 2. Complete Playwright tests in the tests>todo.spec.ts You may create new folders for any organization you prefer. Keep a focus on Page Object Model layout while creating these test.
-3. Write a couple of test cases using the product requirements detailed below.
+3. Write at least 2 -3 test cases using the product requirements detailed below.
+4. Wrap it all together by creating a PowerShell function that creates the app, runs the tests, and gives a result.
 
 ## Submission Details
 1. To keep your work private from other applicants, pull this repo and create a [mirror](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) in your personal GitHub account
 2. Add your changes to the Playwright tests, and bugs reported in your Github issues
-3. When you are ready to share, invite nate8282, sowardskimberly, matthewstclaire, GibbyPDQ, michael-nishiguchi, Nickjgniklu, sstodd7532, and gaiabeatrice to your repo. Send an email to Jenna letting her know you are ready to have your work reviewed
+3. When you are ready to share, invite nate8282, sowardskimberly, matthewstclaire, shalyn-coker, michael-nishiguchi, sstodd7532, and gena-pdq to your repo. Send an email to Jenna letting her know you are ready to have your work reviewed
 
 ## Set up TODO MVC
 
@@ -63,21 +64,20 @@ We've purposely added a handful of bugs to this repo.
 In your private github repo, submit those bug reports to your repo in the GitHub issues.
 
 ### 2. Performance Playwright tests
-We've created a list of tests in the todo.spec.ts file. Please use TypeScript and keep a focus on Page Object Model layout while creating these tests as if there will be more tests then we are having you make now. You may create any files/folders that you like for organization.
+We've created a list of tests in todo.spec.ts file in the tests folder. Please use TypeScript and keep a focus on Page Object Model layout while creating these tests as if there will be more tests then we are having you make now. You may create any files/folders that you like for organization.
 
 ### 3. Test cases
-Using the product requirements write a couple of test cases
+Using the product requirements write at least 2 to 3 test cases in the tests folder.
 
-### 4. Bonus (not required) Performance test in a different tool
-If you are familiar with a different performance testing tool you are welcome to repeat the work in that tool i.e. k6/lighthouse etc. 
-
-### 5. Bonus (not required) PowerShell scripting
+### 4. PowerShell scripting
 Create a PowerShell function in PowerShell7 that does the following 
 1. Starts the app for you
 2. Runs the playwright tests
 3. Reads the results.json
 4. Throws an error if the tests don't meet the criteria
 
+### Performance test in a different tool
+If you are familiar with a different performance testing tool like k6s/lighthouse etc we will be asking you more about it and how it is different/better/worse during our in person interview 
 
 # TodoMVC: React
 
